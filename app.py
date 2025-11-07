@@ -1,5 +1,5 @@
 import sys
-sys.path.append(r"C:\Users\Varun Boga\OneDrive\Desktop\AI Narrative Nexus\scr\Topic_Modeling")
+sys.path.append(r"C:\Users\Varun Boga\OneDrive\Desktop\AI Nexus\AI_NarrativeNexus\scr\Topic_Modeling")
 import text_processing # type: ignore
 
 import streamlit as st
@@ -590,7 +590,7 @@ Python   🤗 Transformers   🍰 NLTK   🎈 Streamlit   🟨 Matplotlib   ☁�
 - `/src/viz`
 
 ---
-Team: Your Name | Project: Infosys Internship 2025  
+Team: Varun Boga | Project: Infosys Internship 2025  
 """, unsafe_allow_html=True)
 
     with open("AI_Narrative_Nexus.pdf", "rb") as f:
